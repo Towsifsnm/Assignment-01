@@ -7,6 +7,12 @@
   font-weight: <weight>;
   font-style: normal;
 }
+.ptag{
+    font-family: "Azeret Mono", monospace;
+    font-weight: 200px;  
+    font-style:none;
+    font-size: 12px;
+  }
 .backgroud-pic{
     background-image: url(../image/Hero-bg.png);
 }
